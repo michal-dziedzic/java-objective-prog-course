@@ -7,7 +7,7 @@ public class Main {
         TomAccount.balance = 1000;
         TomAccount.limit = 2000;
 
-        long timestamp = 1632516399; 
+        long timestamp = 1632516399;
         Date date = new Date(timestamp);
         COD MarkAccount = new COD();
         MarkAccount.account = "1258-3657-asd";
